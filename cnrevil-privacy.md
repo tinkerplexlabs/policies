@@ -40,7 +40,7 @@ We may update this privacy policy from time to time. Any changes will be posted 
 If you have any questions about this privacy policy, please contact us at:
 
 **Commercial and Residential Evil**
-Email: privacy@yourdomain.com
+Email: d4nshields@gmail.com
 
 ---
 
