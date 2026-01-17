@@ -16,7 +16,7 @@ By default, we do **not** collect or transmit any of the following:
 
 - Personal identifiers (e.g., name, email address, phone number)
 - Location data
-- Device or hardware identifiers
+- Device or hardware identifiers (except where required for advertising delivery, if ads are enabled)
 - Browsing or usage statistics
 - Contact lists or social connections
 
@@ -32,9 +32,27 @@ Our applications request only the minimum permissions needed to function. For ex
 
 We do **not** access your contacts, microphone, camera, or location unless clearly stated in a specific product.
 
-## No Analytics or Third-Party Trackers
+## Advertising
 
-We do **not** use analytics tools, advertising networks, or embedded trackers. If a specific product includes third-party services, that will be explained in that product’s individual privacy notice.
+Some of our Services may display advertisements provided by third-party advertising partners, such as Google AdMob.
+
+When ads are enabled, these partners may collect limited information automatically, including:
+
+- Device identifiers such as the Advertising ID
+- Basic device information (e.g., device type, OS version)
+- Approximate location (non-precise, derived from IP)
+
+This information is used solely to:
+- Deliver ads
+- Measure ad performance
+- Prevent fraud and abuse
+
+Tinkerplex Labs Inc. does **not** collect, store, or have direct access to this information. Data collection and processing are governed by the advertising partner’s privacy policy.
+
+For Google AdMob, see:
+https://policies.google.com/privacy
+
+We aim to keep advertising minimal and non-intrusive, and some Services may offer an ad-free experience.
 
 ---
 
